@@ -6,13 +6,13 @@ An undergraduate CS student. Currently working on developing my  problem solving
 
 #### Skills
 
-- Programming Languages: <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg' alt='github' height='12'>,<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='github' height='12'>
+- Programming Languages: <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg' alt='C++' height='12'>,<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='C' height='12'>
 
-- Scripting Languages: <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='github' height='12'>, <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gnubash.svg' alt='github' height='12'>
-- Query Languages: <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='github' height='18'>
-- Web Developing: <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='github' height='13'>, <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='github' height='13'>
+- Scripting Languages: <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='Python' height='12'>, <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gnubash.svg' alt='Shell' height='12'>
+- Query Languages: <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='MySQL' height='18'>
+- Web Developing: <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='HTML' height='13'>, <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='CSS' height='13'>
 
-I have above average knowledge in <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/windows.svg' alt='github' height='12'> & <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='github' height='12'>
+I have above average knowledge in <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/windows.svg' alt='MS Windows' height='12'> & <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='GNU/Linux' height='12'>
 
 #### Interests
 
