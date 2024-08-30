@@ -22,6 +22,8 @@ Operating System, Scripting.
 
 To have a successful career as a System Administrator in any renowned local or international IT-Farm.
 
+[![roadmap.sh](https://roadmap.sh/card/wide/66d1dc55553501e3c32bb099?variant=dark)](https://roadmap.sh)
+
 #### Find me on
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/fa-saikat)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/md-fahim-abrar-saikat-53024021b/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/KALPURUSH.34/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='30'>](_kalpurush_#8490)
