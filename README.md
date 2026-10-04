@@ -1,31 +1,43 @@
-#### Hi, there...
+# Fahim Abrar Saikat
 
-### I'm Fahim Abrar Saikat 
+Systems engineer working across hardware, firmware, and Linux.
+I build and maintain ShopnoOS at JaduPc, a Debian-based distribution that runs on
+deployed ARM and x86 hardware which is also happens to be the first commercially 
+supported Linux distribution in Bangladesh. I like the layer where boards, bootloaders,
+and the OS meet. Based in Bangladesh.
 
-An undergraduate CS student. Currently working on developing my  problem solving  skill, learning new stuff & exploring GNU/Linux as I'm using it as my daily driver.
+## Some of my recent work
 
-#### Skills
+**1. [ShopnoOS](https://github.com/fa-saikat/shopno-os)**
+A Debian-based distribution built from composable layers (base, editions,
+flavors, hardware). Every ISO is gated by boot and package smoke tests, and
+container images ship with an SBOM, a vulnerability scan, keyless signing,
+and SLSA provenance.
 
-- Programming Languages: <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cplusplus.svg' alt='C++' height='12'>,<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg' alt='C' height='12'>
+**2. [teltonika-avl-packet-listener](https://github.com/fa-saikat/teltonika-avl-packet-listener)**
+TCP listener for Teltonika AVL tracker data (Codec 8).
 
-- Scripting Languages: <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='Python' height='12'>, <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gnubash.svg' alt='Shell' height='12'>
-- Query Languages: <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg' alt='MySQL' height='18'>
-- Web Developing: <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='HTML' height='13'>, <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='CSS' height='13'>
+**3. [sysinfo-viewer](https://github.com/fa-saikat/sysinfo-viewer)**
+A desktop tool for viewing system information.
 
-I have above average knowledge in <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/windows.svg' alt='MS Windows' height='12'> & <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='GNU/Linux' height='12'>
+Also check out my **[dotfiles](https://github.com/fa-saikat/dotfiles)**- Debian / dwm / kitty setup, with an installer.
 
-#### Interests
+## What I work with
 
-Operating System, Scripting.
+**Systems:** `Python` · `Bash` · `C / C++`· `Rust` · `GTK` · `Linux kernel config & DTB` ·
+`U-Boot / GRUB / UEFI` · `Debian packaging & live-build` · `systemd`
 
-#### Goal
+**DevOps:** `GitHub Actions` · `Terraform` · `self-hosted runners` ·
+`GHCR` · `Syft` · `Grype` · `SBOM / SLSA`
 
-To have a successful career as a System Administrator in any renowned local or international IT-Farm.
+**Other:** `ESP-IDF` · `ESP32` · `MQTT`
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66d1dc55553501e3c32bb099?variant=dark)](https://roadmap.sh)
+## Currently
 
-#### Find me on
+- Maturing ShopnoOS's build, test, and release pipeline
+- Embedded firmware experiments on ESP32 and other low-cost microcontrollers
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/fa-saikat)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/md-fahim-abrar-saikat-53024021b/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/KALPURUSH.34/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='30'>](_kalpurush_#8490)
+## Contact
 
-![Profile views](https://gpvc.arturio.dev/fa-saikat)
+[email](fahimabrar.saikat@gmail.com) · [LinkedIn](https://www.linkedin.com/in/fahimsaikat/)
+
